@@ -1,7 +1,7 @@
 /*
  * animaly_detection_util.cpp
  *
- * Author: Roni Weiss id: 318349750 and Aviv Shitrit id: 206333007 hi roni
+ * Author: Roni Weiss id: 318349750 and Aviv Shitrit id: 206333007 hi roni hi
  */
 
 
