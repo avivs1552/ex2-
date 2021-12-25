@@ -4,7 +4,7 @@
  * Author: Roni Weiss id: 318349750 and Aviv Shitrit id: 206333007 hi roni hi
  */
 
-
+fsjvxkvkmslvslk
 
 
 #include <cmath>
@@ -124,6 +124,3 @@ float dev(Point p, Line l) {
 	float dev = std::abs(f_x - p.y);
 	return dev;
 }
-
-
-
